@@ -1,4 +1,4 @@
-## Moje Oblínebé jídlo
+## Moje Oblíbené jídlo
 
 ### Pizza
 - **Šunka**
