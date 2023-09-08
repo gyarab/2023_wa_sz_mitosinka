@@ -6,5 +6,7 @@
 - **Rajčatová omáčka**
 - **Slanina**
 
-####Má oblíbená pizzerie je [Grosseto](https://www.grosseto.cz/)
+#### Má oblíbená pizzerie je [Grosseto](https://www.grosseto.cz/).
+
+(https://www.grosseto.cz/files/20210204-grosseto0541.jpg)
 
