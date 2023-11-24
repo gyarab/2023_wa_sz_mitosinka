@@ -3,3 +3,12 @@
     font-size: 18px;
     font-weight: bold;
   }
+  img {
+    display: block;
+  }
+  .cervena {
+    color: red;
+  }
+ .modra{
+  color: blue;
+ }
